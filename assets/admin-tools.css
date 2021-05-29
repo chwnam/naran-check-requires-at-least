@@ -1,0 +1,79 @@
+.wrap.ncral h1 {
+    font-size: 28px;
+}
+
+.wrap.ncral h2 {
+    font-size: 1.8em;
+}
+
+.wrap.ncral h3 {
+    font-size: 1.2em;
+    margin: 1.8em 0 1.0em;
+}
+
+.wrap.ncral h4 {
+    font-size: 1.1em;
+    margin: 1.6em 0 1.0em;
+}
+
+.wrap.ncral .header-inline {
+    font-size: 15px;
+    font-weight: normal;
+    display: inline-block;
+    margin-left: 7px;
+}
+
+.wrap.ncral .reference-status {
+    font-size: 17px;
+}
+
+.wrap.ncral .reference-status .label {
+    display: inline-block;
+    width: 120px;
+    font-weight: 600;
+}
+
+.wrap.ncral .inspection {
+    margin-bottom: 17px;
+}
+
+.wrap.ncral .results,
+.wrap.ncral .results p {
+    font-size: 17px;
+}
+
+.wrap.ncral .function-info-wrap.shrink {
+    height: 180px;
+    overflow-y: clip;
+}
+
+.wrap.ncral .results pre {
+    max-width: 380px;
+    padding: 16px 20px;
+    border-radius: 5px;
+    background-color: #3e3e3e;
+    color: #3f3;
+    font-family: Consolas, Monaco, monospace;
+    font-size: 18px;
+    line-height: 1.2;
+}
+
+.wrap.ncral .function-info {
+    padding: 10px 20px;
+    margin: 10px 0;
+    background-color: beige;
+    border: 1px solid #ccaa33;
+    border-radius: 5px;
+}
+
+.wrap.ncral .function-info code {
+    font-size: 17px;
+}
+
+.wrap.ncral .function-info > p {
+    margin: 2px 0;
+}
+
+.wrap.ncral .function-info > ul {
+    margin: 2px 20px;
+}
